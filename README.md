@@ -1,7 +1,7 @@
 # Python Data Analysis With Automation
 
 ## Project Overview
-The project was looking at  both HIV assays that reflexed from the Biorad instrument to the Geenius instrument. Any reactive result on the original machine automatically gets reflexed for confirmatory testing on the Geenius. The goal of the automated data pull was to see if there were any anomalies in the confirmatory test, i.e. a reactive result on the screen to a non-reactive result for confirmation.  If there were a consistent pattern of reactive to non-reactive this then is a red flag for the lab to see if the lab needs to re-calibrate the machines. To err on the side of caution, the SQL script will be omitted. 
+The project was looking at  both HIV assays that reflexed from the Biorad instrument to the Geenius instrument. Any reactive result on the original machine automatically gets reflexed for confirmatory testing on the Geenius. The goal of the automated data pull was to see if there were any anomalies in the confirmatory test, i.e. a reactive result on the screen to a non-reactive result for confirmation.  If there were a consistent pattern of reactive to non-reactive this then is a red flag for the lab to see if the machiness need to be re-calibrated. To err on the side of caution, the SQL script will be omitted. 
 
 ## Data Sources
 The SQL script pulls data from the following tables:
