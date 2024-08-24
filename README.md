@@ -14,6 +14,6 @@ Assay Table: Provides details on the assays used. <br/>
 Once the data is extracted using SQL, it is cleaned and processed in Python. The cleaning process involves standardizing formats, removing duplicates, and ensuring data accuracy.
 
 ## Automation
-Finally, once the data has been approved by the lab manager the program is then automated using a batch file along with Task Scheduler. The program then ran on the 15th of every month.  
+Finally, once the data has been approved by the lab manager the program is then automated using a batch file along with Task Scheduler. The program then ran and sent an email on the 15th of every month.  
 
 
